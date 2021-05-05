@@ -1,0 +1,30 @@
+{
+  "name": "loners",
+  "version": "1.0.0",
+  "description": "EmanSza | Spike | Canta",
+  "main": "./source/index.js",
+  "scripts": {
+    "start": "node ./source/index.js",
+    "dev": "nodemon ./source/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/WornOffKeys/Cheems-Media"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WornOffKeys/Cheems-Mediaissues"
+  },
+  "homepage": "https://github.com/WornOffKeys/Cheems-Media#readme",
+  "dependencies": {
+    "@top-gg/sdk": "^3.0.9",
+    "axios": "^0.21.1",
+    "chalk": "^4.1.0",
+    "deepai": "^1.0.17",
+    "discord.js": "^12.5.1",
+    "moment": "^2.29.1",
+    "mongoose": "^5.11.15",
+    "topgg-autoposter": "^1.1.7"
+  }
+}

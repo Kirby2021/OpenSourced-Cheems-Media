@@ -1,0 +1,8 @@
+{
+    "TOKEN": "TOKEN",
+    "PREFIX": "!",
+    "MONGOURI": "MONGOURI",
+    "BOTADMINS": ["BOTADMINSID"],
+    "Developers": [""],
+    "someServers": [""]
+}
