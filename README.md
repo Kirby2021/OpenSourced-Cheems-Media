@@ -5,7 +5,9 @@ This Bot will be open sourced under the MIT License. Use this as you please but 
 
 ## Developers
 Lead Developer: EmanSza
+
 Senior Developers Canta | Spik
+
 Junior Developers: Krabby | Oblivion.
 
 ## Mentions
