@@ -4,7 +4,9 @@ This is the Social Media bot called Cheems Media inspired by a Reddit/Instagram 
 This Bot will be open sourced under the MIT License. Use this as you please but please do not put the bot on top.gg without EmanSza's permission
 
 ## Developers
-EmanSza && Canta && Spik && Krabby && Oblivion.
+Lead Developer: EmanSza
+Senior Developers Canta | Spik
+Junior Developers: Krabby | Oblivion.
 
 ## Mentions
  Command Handler : [Cantas Bot Prefab](https://github.com/canta-slaus/bot-prefab)
